@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(212, 101, 203);
+}
+#ima{
+    padding-right: center;
+    width: 50%;
+    height: 100%;
+}
+#tit{
+    text-align: center;
+    color: rgb(47, 214, 164);
+}
+#text{
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+#ims{
+    padding-right: center;
+    width: 50%;
+    height: 100%;
+}
+#img{
+    padding-right: center;
+    width: 80%;
+    height: 150%;
+}
+#atle{
+    padding-right: center;
+    width: 50%;
+    height: 50%;
+}
+p{
+    color: white;
+    font-size: medium;
+}
+#ski{
+    padding-right: center;
+    width: 50%;
+    height: 50%;
+}
+#bas{
+    padding-right: center;
+    width: 50%;
+    height: 50%;
+}
+#beis{
+    padding-right: center;
+    width: 50%;
+    height: 50%;
+}
+#titu{
+    text-align: center;
+    color: white;
+}
+#footer{
+    text-align: center;
+}
